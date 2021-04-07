@@ -22,7 +22,7 @@ title: Makes Math Easy
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   CHAOSS Prototype
-baseurl: "/chaoss.community"
+baseurl: "/CHAOSS-Micro-Task"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: robin025
