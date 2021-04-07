@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metrics
-permalink: /metrics
+permalink: /metrics/
 description: Metrics
 ---
 {% include sidebar.html %}
