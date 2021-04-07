@@ -28,7 +28,7 @@ twitter_username:
 github_username: robin025
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
